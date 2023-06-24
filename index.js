@@ -4,8 +4,6 @@ const PluginError = require('plugin-error');
 
 through = require("through2");
 
-gutil = require("gulp-util");
-
 isEmptyLine = function (string) {
   return string === "" || string === "\r";
 };
