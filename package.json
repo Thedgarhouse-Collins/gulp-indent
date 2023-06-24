@@ -1,7 +1,6 @@
-
 {
   "name": "gulp-indent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Indent piped files",
   "keywords": [
     "gulpplugin"
@@ -11,17 +10,21 @@
     "email": "joao.l.d.a@hotmail.com",
     "url": "https://github.com/JohnyDays"
   },
-  "repository": "JohnyDays/gulp-indent",
+  "contributors": [
+    {
+      "name": "Edgar Mendoza",
+      "email": "edgar.alfonso.mendoza@collins.com"
+    }
+  ],
+  "repository": "Thedgarhouse-Collins/gulp-indent",
   "scripts": {
     "test": "mocha"
   },
   "dependencies": {
-    "through2": "*",
-    "gulp-util": "~2.2.0"
+    "through2": "*"
   },
   "devDependencies": {
     "mocha": "*",
-    "coveralls": "*",
     "event-stream": "*",
     "should": "~2.1.0"
   },

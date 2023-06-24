@@ -1,9 +1,3 @@
-
-# gulp-indent
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Status][depstat-image]][depstat-url]
-
-> indent plugin for [gulp](https://github.com/wearefractal/gulp)
-
 ## Usage
 
 First, install `gulp-indent` as a development dependency:
@@ -51,9 +45,6 @@ Default: `2`
 
 [travis-url]: http://travis-ci.org/JohnyDays/gulp-indent
 [travis-image]: https://secure.travis-ci.org/JohnyDays/gulp-indent.png?branch=master
-
-[coveralls-url]: https://coveralls.io/r/JohnyDays/gulp-indent
-[coveralls-image]: https://coveralls.io/repos/JohnyDays/gulp-indent/badge.png
 
 [depstat-url]: https://david-dm.org/JohnyDays/gulp-indent
 [depstat-image]: https://david-dm.org/JohnyDays/gulp-indent.png
